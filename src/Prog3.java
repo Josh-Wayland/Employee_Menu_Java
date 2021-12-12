@@ -1,4 +1,4 @@
-/**COSC 310-002 Assignment 3
+/**
  * Prog3.java
  * 
  * This program creates a EmpMenu object
